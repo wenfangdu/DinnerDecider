@@ -1,5 +1,5 @@
 # DinnerDecider
 
-A simple app for quickly picking dinner
+A simple app for quickly picking dinner, written in kotlin
 
-![DinnerDecider](https://raw.githubusercontent.com/leonbec/DinnerDecider/master/img/img.png "DinnerDecider")
+<img src="./img/img.png" alt="Phone Portrait" width="250px">
